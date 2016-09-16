@@ -1,0 +1,7 @@
+c:\users\god's blessing\documents\visual studio 2012\Projects\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csprojResolveAssemblyReference.cache
+C:\Users\God's blessing\documents\visual studio 2012\Projects\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.exe
+C:\Users\God's blessing\documents\visual studio 2012\Projects\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.pdb
+C:\Users\God's blessing\documents\visual studio 2012\Projects\WeatherAPI\WeatherAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\God's blessing\documents\visual studio 2012\Projects\WeatherAPI\WeatherAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\God's blessing\documents\visual studio 2012\Projects\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.exe
+C:\Users\God's blessing\documents\visual studio 2012\Projects\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.pdb
